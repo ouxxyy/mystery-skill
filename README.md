@@ -9,8 +9,6 @@
 
 ![Mystery 思维操作系统 · 板书预览](mystery-board.gif)
 
-👉 **[点击查看交互式板书](https://ouxxyy.github.io/mystery-skill/)**（键盘左右键翻页）
-
 ---
 
 ## 🧠 这是什么？
@@ -100,7 +98,8 @@ Mystery 的语言有独特指纹：
 ```
 mystery-skill/
 ├── README.md                    # 本文件
-├── index.html                   # 交互式动画板书
+├── mystery-board.gif            # 板书动图预览
+├── qrcode.jpg                   # 公众号二维码
 ├── SKILL.md                     # Skill 主文件（19.8K）
 └── references/
     └── research/
@@ -118,6 +117,14 @@ mystery-skill/
 
 - **创建工具**：女娲 · Skill 造人术（[huashu-nuwa](https://github.com/alchaincyf/huashu-skills)）
 - **数据来源**：Mystery 公开发表的著作、访谈、媒体评论
+
+---
+
+## 📱 关注「欧八同学」
+
+扫码关注公众号 **欧八同学**，回复「**资料**」领取更多 AI 实用资料和工具。
+
+<img src="qrcode.jpg" width="200" />
 
 ---
 

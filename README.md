@@ -7,6 +7,8 @@
 
 ## 📺 动画板书预览
 
+![Mystery 思维操作系统 · 板书预览](mystery-board.gif)
+
 👉 **[点击查看交互式板书](https://ouxxyy.github.io/mystery-skill/)**（键盘左右键翻页）
 
 ---
@@ -115,7 +117,6 @@ mystery-skill/
 ## 🏗 关于
 
 - **创建工具**：女娲 · Skill 造人术（[huashu-nuwa](https://github.com/alchaincyf/huashu-skills)）
-- **创建者**：花叔
 - **数据来源**：Mystery 公开发表的著作、访谈、媒体评论
 
 ---

@@ -85,10 +85,20 @@ Mystery 的语言有独特指纹：
 
 ## 🚀 如何使用
 
-在支持 Skill 的 AI 助手中：
+### 安装到你的 AI Agent
+
+任何支持 `SKILL.md` 技能约定的 Agent 都能使用。以常见的用户级技能目录为例：
+
+```bash
+git clone https://github.com/ouxxyy/mystery-skill.git ~/.agents/skills/mystery-skill
+```
+
+`SKILL.md` 是入口，`references/research/` 下的调研文件会按需被 Agent 读取，不需要额外配置。
+
+### 日常用法
 
 1. **触发**：说「用 Mystery 视角」「Mystery 会怎么看」「社交动态分析」
-2. **交互**：Skill 会以 Mystery 式分析框架直接回应
+2. **交互**：Skill 会以 Mystery 式分析框架直接回应，给出阶段判断和行动方案
 3. **退出**：说「退出角色」「切回正常」
 
 ---
@@ -117,14 +127,23 @@ mystery-skill/
 
 - **创建工具**：女娲 · Skill 造人术（[huashu-nuwa](https://github.com/alchaincyf/huashu-skills)）
 - **数据来源**：Mystery 公开发表的著作、访谈、媒体评论
+- **内容边界**：本仓库是基于公开文献的整理与转述，仅供个人学习研究；Mystery 原著版权归原出版方所有，请勿将本仓库内容用于商业用途或当作原作替代品。
 
 ---
 
-## 📱 关注「欧八同学」
+## 👤 作者
 
-扫码关注公众号 **欧八同学**，回复「**资料**」领取更多 AI 实用资料和工具。
+作者全平台同名：**欧八同学**。微信公众号扫码关注，回复「**资料**」领取更多 AI 实用资料和工具。
 
-<img src="qrcode.jpg" width="200" />
+- 抖音：[搜索“欧八同学”](https://www.douyin.com/search/%E6%AC%A7%E5%85%AB%E5%90%8C%E5%AD%A6)
+- 小红书：[搜索“欧八同学”](https://www.xiaohongshu.com/search_result?keyword=%E6%AC%A7%E5%85%AB%E5%90%8C%E5%AD%A6)
+- X：[搜索“欧八同学”](https://x.com/search?q=%E6%AC%A7%E5%85%AB%E5%90%8C%E5%AD%A6&src=typed_query)
+
+<p align="center">
+  <img src="qrcode.jpg" alt="欧八同学微信公众号二维码" width="260">
+</p>
+
+如果这个 Skill 对你有启发，欢迎点个 Star。使用中遇到边界判断问题或框架失灵的场景，欢迎提 Issue 讨论。
 
 ---
 

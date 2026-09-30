@@ -135,6 +135,7 @@ mystery-skill/
 
 作者全平台同名：**欧八同学**。微信公众号扫码关注，回复「**资料**」领取更多 AI 实用资料和工具。
 
+- 个人主页 / 联系我：[albertou.redboook.cn](https://albertou.redboook.cn/)
 - 抖音：[搜索“欧八同学”](https://www.douyin.com/search/%E6%AC%A7%E5%85%AB%E5%90%8C%E5%AD%A6)
 - 小红书：[搜索“欧八同学”](https://www.xiaohongshu.com/search_result?keyword=%E6%AC%A7%E5%85%AB%E5%90%8C%E5%AD%A6)
 - X：[搜索“欧八同学”](https://x.com/search?q=%E6%AC%A7%E5%85%AB%E5%90%8C%E5%AD%A6&src=typed_query)

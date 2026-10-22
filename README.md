@@ -1,9 +1,21 @@
-# 🎩 Mystery 思维操作系统
+# Mystery 思维操作系统｜Mystery Method 认知框架 Skill
 
 > **PUA 创始人 Mystery (Erik von Markovik) 的认知蒸馏 Skill**
 > 从 11 篇著作、10+ 访谈、20+ 外部评论中提炼的 7 个核心心智模型、10 条决策启发式、完整表达 DNA
 
 ---
+
+[使用示例](#quick-example) · [开始使用](#quick-start) · [English](#english-overview)
+
+<a id="quick-example"></a>
+
+## 一次使用示例
+
+**学习输入示例：**「比较 Mystery Method 中的框架概念与平等沟通：分别说明原始主张、局限，以及哪些建议不应直接照做。」
+
+**输出：** 用公开资料整理的心智模型和决策启发式分析问题，同时保留伦理边界；不是官方认证建议，也不保证现实社交效果。
+
+先看下方动画板书，再按 [使用说明](#quick-start) 加载 Skill。只用于个人学习研究，不可商用，也不能代替原著。
 
 ## 📺 动画板书预览
 
@@ -83,6 +95,8 @@ Mystery 的语言有独特指纹：
 
 ---
 
+<a id="quick-start"></a>
+
 ## 🚀 如何使用
 
 ### 安装到你的 AI Agent
@@ -130,6 +144,32 @@ mystery-skill/
 - **内容边界**：本仓库是基于公开文献的整理与转述，仅供个人学习研究；Mystery 原著版权归原出版方所有，请勿将本仓库内容用于商业用途或当作原作替代品。
 
 ---
+
+## 常见问题
+
+### 这是 Mystery 官方发布或认证的 Skill 吗？
+
+不是。它是基于公开材料整理的个人研究项目，不代表原作者或任何机构的认可。
+
+### 可以用来学习欺骗、侮辱或操纵技巧吗？
+
+项目明确拒绝侮辱、欺骗、情感操控和剥削，分析时保留对框架的批判和边界。
+
+### 可以商用或保证社交结果吗？
+
+只供个人学习研究，不可商用，也不能代替原著；没有现实行为改善的效果保证。
+
+<a id="english-overview"></a>
+
+## English overview
+
+A public-source cognitive framework based on Mystery / Erik von Markovik, packaged as an Agent Skill for studying the Mystery Method, social analysis and decision heuristics.
+
+See [usage](#quick-start). This is an independent study project, not an official or endorsed product. It is for personal, non-commercial study and does not replace the original works. Keep the explicit boundaries against deception, humiliation, manipulation and exploitation; no real-world outcome is guaranteed.
+
+## 相关项目
+
+[欧八同学的 AI Skills 与跳槽涨薪工具合集](https://github.com/ouxxyy/ouba-classmate)：按实际用途查找其他项目。
 
 ## 👤 作者
 

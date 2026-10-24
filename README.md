@@ -5,6 +5,9 @@
 
 ---
 
+> [!TIP]
+> 🎁 扫码关注公众号「欧八同学」，免费领取 AI 案例与 Skill《大厂产品AI经验编程 200 套》→ [去扫码](#author)
+
 [使用示例](#quick-example) · [开始使用](#quick-start) · [English](#english-overview)
 
 <a id="quick-example"></a>
@@ -170,10 +173,13 @@ See [usage](#quick-start). This is an independent study project, not an official
 ## 相关项目
 
 [欧八同学的 AI Skills 与跳槽涨薪工具合集](https://github.com/ouxxyy/ouba-classmate)：按实际用途查找其他项目。
+- 全部项目与作者主页：[github.com/ouxxyy](https://github.com/ouxxyy)
+
+<a id="author"></a>
 
 ## 👤 作者
 
-作者全平台同名：**欧八同学**。微信公众号扫码关注，回复「**资料**」领取更多 AI 实用资料和工具。
+作者全平台同名：**欧八同学**。微信公众号扫码关注，免费领取 AI 案例与 Skill《大厂产品AI经验编程 200 套》。
 
 - 个人主页 / 联系我：[albertou.redboook.cn](https://albertou.redboook.cn/)
 - 抖音：[搜索“欧八同学”](https://www.douyin.com/search/%E6%AC%A7%E5%85%AB%E5%90%8C%E5%AD%A6)
@@ -183,6 +189,8 @@ See [usage](#quick-start). This is an independent study project, not an official
 <p align="center">
   <img src="qrcode.jpg" alt="欧八同学微信公众号二维码" width="260">
 </p>
+
+<p align="center"><sub>扫码关注「欧八同学」，免费领取《大厂产品AI经验编程 200 套》</sub></p>
 
 如果这个 Skill 对你有启发，欢迎点个 Star。使用中遇到边界判断问题或框架失灵的场景，欢迎提 Issue 讨论。
 

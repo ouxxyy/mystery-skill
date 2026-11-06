@@ -1,0 +1,20 @@
+{
+  "name": "mystery-skill",
+  "version": "1.1.0",
+  "description": "Mystery 认知框架与职场框架控制 Skill：基于公开资料提炼的 7 个心智模型、10 条决策启发式与面试/谈薪/向上管理场景映射",
+  "author": {
+    "name": "欧八同学 (ouxxyy)",
+    "url": "https://github.com/ouxxyy/ouba-classmate"
+  },
+  "repository": "https://github.com/ouxxyy/mystery-skill",
+  "homepage": "https://github.com/ouxxyy/ouba-classmate",
+  "skills": "./",
+  "keywords": [
+    "mystery-method",
+    "cognitive-framework",
+    "frame-control",
+    "interview-strategy",
+    "claude-skill",
+    "ouba-classmate"
+  ]
+}

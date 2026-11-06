@@ -1,9 +1,19 @@
-# Mystery 思维操作系统｜Mystery Method 认知框架 Skill
+# Mystery 思维操作系统｜Mystery Method 认知框架与职场心理博弈 Skill
 
-> **PUA 创始人 Mystery (Erik von Markovik) 的认知蒸馏 Skill**
-> 从 11 篇著作、10+ 访谈、20+ 外部评论中提炼的 7 个核心心智模型、10 条决策启发式、完整表达 DNA
+> 📦 **本项目属于 [ouba-classmate 套件](https://github.com/ouxxyy/ouba-classmate)**：[一行安装全部求职与创作 Skill](https://github.com/ouxxyy/ouba-classmate#install) · [查看《中文 AI 求职 Skill 公开横评》](https://github.com/ouxxyy/ouba-classmate/tree/main/benchmark)
+
+> **PUA 创始人 Mystery (Erik von Markovik) 的认知蒸馏 Skill + 职场框架控制实战包**
+> 从 11 篇著作、10+ 访谈、20+ 外部评论中提炼的 7 个核心心智模型、10 条决策启发式、完整表达 DNA，并映射为**面试压力面拆解、谈薪底牌防守、向上管理边界控制**三套职场方案（见 [`workplace/`](workplace/)）。
 
 ---
+
+## 🔥 职场场景专版（面试框架控制 · 谈薪博弈 · 向上管理）
+
+面试、谈薪与跨部门博弈本质上是高信息不对称下的**框架争夺（Frame Control）**。想要完整求职工具链请访问 **[ouba-classmate 套件](https://github.com/ouxxyy/ouba-classmate)**，或直接进入本仓职场场景目录：
+
+- **[面试框架控制 (`workplace/interview-frame-control.md`)](workplace/interview-frame-control.md)**：把压力面质疑作为“一致性测试（Congruence Test）”拆解，用“接纳并重构 + 故事嵌入式 DHV”替代被动辩解。
+- **[谈薪博弈 (`workplace/salary-negotiation.md`)](workplace/salary-negotiation.md)**：基于投资度模型（Compliance / Investment），在用人部门建立沉没成本后再锁定总包筹码。
+- **[向上管理 (`workplace/managing-up.md`)](workplace/managing-up.md)**：将 M3 阶段模型（注意力 → 信任 → 行动拍板）用于老板预期对齐与无边界需求防御。
 
 > [!TIP]
 > 🎁 扫码关注公众号「欧八同学」，免费领取 AI 案例与 Skill《大厂产品AI经验编程 200 套》→ [去扫码](#author)

@@ -1,5 +1,20 @@
 # Mystery 思维操作系统｜Mystery Method 认知框架与职场心理博弈 Skill
 
+<!-- discovery:start -->
+## Mystery 思维模型与职场沟通框架学习
+
+**怎样用思维模型分析面试压力、谈薪和向上沟通？** 从公开文献整理认知模型与决策启发式，并提供面试框架、谈薪和向上管理的学习材料。
+
+Mystery Method mental models and workplace communication study.
+
+**开始使用：** [加载 Skill](#quick-start) · [职场场景材料](workplace/)。
+
+**使用边界：** 仅供个人非商业学习，不代表官方认证；保留伦理限制，尊重自主选择，不将影响技巧当作操控他人的工具。
+
+[按任务浏览欧八同学的全部工具](https://github.com/ouxxyy/ouba-classmate#按需求找)；如果本项目有帮助，欢迎收藏当前仓库。
+
+<!-- discovery:end -->
+
 <!-- hero:start -->
 
 <p>

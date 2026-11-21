@@ -7,12 +7,15 @@
 
 Mystery Method mental models and workplace communication study.
 
+**30 秒核心结论：** 7 个心智模型 · 10 条决策启发式 · 覆盖面试压力/谈薪/向上管理 3 大职场场景 · 仅供个人学习 · MIT 开源 0 元 · 更新于 2026-11-21。
+
+**一键安装 / 收藏：** `npx skills add ouxxyy/ouba-classmate --skill mystery-skill` ｜ `claude plugin marketplace add ouxxyy/ouba-classmate` ｜ `gh api -X PUT /user/starred/ouxxyy/mystery-skill`
+
 **开始使用：** [加载 Skill](#quick-start) · [职场场景材料](workplace/)。
 
 **使用边界：** 仅供个人非商业学习，不代表官方认证；保留伦理限制，尊重自主选择，不将影响技巧当作操控他人的工具。
 
 [按任务浏览欧八同学的全部工具](https://github.com/ouxxyy/ouba-classmate#按需求找)；如果本项目有帮助，欢迎收藏当前仓库。
-
 <!-- discovery:end -->
 
 <!-- hero:start -->
